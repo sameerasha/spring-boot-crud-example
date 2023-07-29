@@ -58,6 +58,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>spring-boot-crud-example</finalName>
 	</build>
 
 </project>
